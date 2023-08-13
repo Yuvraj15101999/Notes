@@ -20,6 +20,16 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a419e570d7001d32",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ]
       }
@@ -151,6 +161,7 @@
   },
   "active": "6a452955ac415e08",
   "lastOpenFiles": [
+    "Oracle Cloud Infrastructure/Oracle Foundation Associate/Oracle Cloud Associate.pdf",
     "Oracle Cloud Infrastructure/Oracle Foundation Associate/Lab 01-2_ Identity and Access Management (IAM)_ Create IAM Components - Without Identity Domains Enabled.pdf",
     "Oracle Cloud Infrastructure/Oracle Foundation Associate/Lab 01-1_ Identity and Access Management (IAM)_ Create IAM Components - With Identity Domains Enabled.pdf",
     "Pasted image 20230730181844.png",
